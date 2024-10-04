@@ -1,0 +1,104 @@
+/*
+    Name: Nishit Patel
+    Student Number: 9032224
+*/
+
+body{
+    width: 1200px;
+    max-width: 1200px;
+    margin: auto;
+    font: 15px bold Arial,sans-serif;
+    padding: 20px;
+}
+
+.header-footer{
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+
+h1{
+    color: orange;
+    font-variant: small-caps;
+    text-align: center;
+    background-color: gray;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 1px;
+}
+
+h2{
+    color: orange;
+    font-variant: small-caps;
+    text-align: left;
+
+}
+
+footer p{
+    font-size: large;
+    color: orange;
+}
+
+main{
+    float: left;
+    width: 69%;
+    padding: 12px;
+    margin: auto;
+}
+
+aside{
+    float: left;
+    width: 25%;
+    padding: 10px;
+    margin: 10px;
+    background-color: lightblue;
+    border-radius: 10px;
+}
+
+footer{
+    clear: both;
+    text-align: center;
+    font-size: medium;
+    background-color: gray;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 0px;
+}
+
+.mainimg{
+    border: 0px;
+    width: 500px;
+}
+
+figcaption{
+    font-weight: bold;
+    font-variant: small-caps;
+    text-align: center;
+    font-size: medium;
+}
+
+q{
+    font-family: cursive;
+    font-style: italic;
+    font-size: large;
+}
+
+ul li{
+    list-style: none;
+    line-height: 1.8;
+}
+
+ul :nth-child(1){
+    text-decoration: none;
+    color: blue;
+}
+
+aside a:hover {
+    color: red;
+}
+
+
+
+
+
